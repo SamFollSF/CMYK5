@@ -1,0 +1,74 @@
+site_name: CMYK5
+site_url: https://mydomain.org/mysite
+theme:
+  logo: assets/lostesso.png
+  name: material
+  palette: 
+
+    - scheme: default
+      primary: deep orange
+      accent: deep purple
+
+  features:
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    # - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - header.autohide
+    - navigation.instant
+    - navigation.instant.progress
+
+
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md 
+  - blog
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+nav:
+ - Home: index.md
+ - CYAN: 
+    - Ciano/carte ciano.md
+    - Ciano/thedeather.md
+ - MAGENTA: cartemag.md
+ - YELLOW: cartegia.md
+ - KEY COLOR: cartener.md
+ - R3M1X: carterem.md
+ - Set: tags.md
+ - News:
+    - blog/index.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/samfoll.design?igsh=enB6NHZiMWt1bnl6
+  consent:
+    title: Hey! Dove credi di andare?
+    description: >- 
+      Sei un fallito che ha perso moglie, lavoro e amici? non preoccuparti, accettando qui sotto accetterai di
+      vendere la tua anima al diavolo per la cifra di Euro 20, che ti permetterà di fare la tua ultima scommessa
+      al casinò e sperare di riprenderti la tua vita. In caso contrario la SamFollSF.inc non si assume alcuna responsabilità.
+
+extra_css:
+  - assets/custom.css
