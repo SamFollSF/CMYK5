@@ -6,8 +6,8 @@ theme:
   palette: 
 
     - scheme: default
-      primary: deep orange
-      accent: deep purple
+      primary: black
+      accent: deep orange
 
   features:
     - navigation.footer
@@ -51,7 +51,9 @@ nav:
  - CYAN: 
     - Ciano/carte ciano.md
     - Ciano/thedeather.md
- - MAGENTA: cartemag.md
+ - MAGENTA: 
+    - cartemag.md
+    - Magenta/solisnoctix.md
  - YELLOW: cartegia.md
  - KEY COLOR: cartener.md
  - R3M1X: carterem.md
