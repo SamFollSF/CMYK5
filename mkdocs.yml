@@ -49,14 +49,59 @@ markdown_extensions:
 nav:
  - Home: index.md
  - CYAN: 
-    - Ciano/carte ciano.md
-    - Ciano/thedeather.md
+    - Ciano/carteciano.md
+    - Ciano/thedea.md
+    - Ciano/pakolapp.md
+    - Ciano/lele.md
+    - Ciano/kekka.md
+    - Ciano/karuto.md
+    - Ciano/iuffredo.md
+    - Ciano/dada.md
+    - Ciano/ludovit.md
+    - Ciano/pistilli.md
  - MAGENTA: 
     - cartemag.md
     - Magenta/solisnoctix.md
- - YELLOW: cartegia.md
- - KEY COLOR: cartener.md
- - R3M1X: carterem.md
+    - Magenta/ilpanettone.md
+    - Magenta/sawako.md
+    - Magenta/santin.md
+    - Magenta/zoro.md
+    - Magenta/androzz.md
+    - Magenta/dx4vid.md
+    - Magenta/alesdreams.md
+    - Magenta/shadowelite.md
+    - Magenta/chitty.md
+ - YELLOW:
+    - cartegia.md
+    - Giallo/frashadow.md
+    - Giallo/arion.md
+    - Giallo/angy.md
+    - Giallo/del.md
+    - Giallo/gmlrc.md
+    - Giallo/hedro.md
+    - Giallo/ludemart.md
+    - Giallo/martin.md
+    - Giallo/mc6.md
+    - Giallo/postfry.md
+    - Giallo/redghost.md
+    - Giallo/sabry.md
+ - KEY COLOR:
+    - cartener.md
+    - Nero/bird.md
+    - Nero/gabmiglior.md
+    - Nero/giocosty.md
+    - Nero/kind.md
+    - Nero/opsg.md
+    - Nero/pulak.md
+    - Nero/stray.md
+    - Nero/valeriacci.md
+ - R3M1X:
+    - carterem.md
+    - Remix/uvifdy/extraspettrale.md
+    - Remix/uvifdy/uv.md
+    - Remix/uvifdy/if.md
+    - Remix/uvifdy/kyle.md
+    - Remix/uvifdy/katia.md
  - Set: tags.md
  - News:
     - blog/index.md

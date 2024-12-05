@@ -1,0 +1,9 @@
+---
+tags:
+  - Original
+
+...
+
+# GMLRC
+
+dioporco

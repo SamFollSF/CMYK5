@@ -1,0 +1,9 @@
+---
+tags:
+  - Original
+
+...
+
+# Zoro
+
+diopalestrato
