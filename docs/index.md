@@ -15,3 +15,5 @@ Bene, ora non ti resta che scoprire tutte e 100 le carte! Usa il navigatore qui 
 - [Mazzo Ciano](Ciano/carteciano.md)
 - [Mazzo Magenta](cartemag.md)
 - [Mazzo Giallo](cartegia.md)
+- [Mazzo Nero](cartener.md)
+- [Mazzo R3M1X](carterem.md)

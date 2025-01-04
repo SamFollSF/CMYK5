@@ -117,6 +117,7 @@ extra:
   social:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/samfoll.design?igsh=enB6NHZiMWt1bnl6
+  favicon: /favicon.ico
 
 extra_css:
   - assets/custom.css
