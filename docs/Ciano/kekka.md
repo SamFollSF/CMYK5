@@ -6,7 +6,7 @@ tags:
 
 # KEKKA AMI
 
-diofrociopercorso immagine
+percorso immagine
 
 ## Descrizione
 

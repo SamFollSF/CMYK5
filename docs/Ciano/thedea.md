@@ -1,12 +1,12 @@
 ---
 tags:
-  - Deep Dark
+  - The Other Side
 
 ...
 
 # The Deather
 
-percorso immagine
+![thedeather](../eg/C/thedeather.jpg)
 
 ## Descrizione
 
@@ -22,7 +22,7 @@ Nel I secolo d. C. Plinio il Vecchio descrisse il lapislazzulo come "un framment
 
 ## Curiosità
 
-- È un abilissimo pilota su due ruote. Preferisce infatti spostarsi per il Surface Web con il suo SimJet blu al quale è molto legato.
+- È un abilissimo pilota sulle due ruote. Preferisce infatti spostarsi per il Surface Web con il suo SimJet blu al quale è molto legato.
 - Spende il proprio tempo libero insieme a SamFollSF nelle varie sale scommesse presenti nel Web. È possibile scommettere sia su eventi del mondo reale sia su eventi esclusivamente digitali, come i combattimenti fra [Cavalieri di Bronzo](../Remix/metal.md).
 - The Deather è l'Agent di Giuseppe Tella.
 

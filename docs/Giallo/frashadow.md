@@ -6,7 +6,7 @@ tags:
 
 # Frashadow
 
-percorso immagine
+![frashadow](../eg/Y/frashadow.jpg)
 
 ## Descrizione
 

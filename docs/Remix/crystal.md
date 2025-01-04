@@ -1,10 +1,4 @@
----
-tags:
-  - Web Crystals
-
-...
-
-# Cristalli
+# Web Crystals
 
 percorso copertina
 

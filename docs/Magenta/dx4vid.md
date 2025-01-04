@@ -6,7 +6,7 @@ tags:
 
 # Dx4vid
 
-percorso immagine
+![dx4vid](../eg/M/dx4vid.jpg)
 
 ## Descrizione
 

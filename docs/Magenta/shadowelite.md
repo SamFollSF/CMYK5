@@ -6,7 +6,7 @@ tags:
 
 # Shadow Elite
 
-percorso immagine
+![shadowelite](../eg/M/shadowelite.jpg)
 
 ## Descrizione
 

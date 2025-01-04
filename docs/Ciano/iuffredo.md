@@ -6,7 +6,7 @@ tags:
 
 # Golden
 
-percorso immagine
+![Golden](../eg/C/golden.jpg)
 
 ## Descrizione
 

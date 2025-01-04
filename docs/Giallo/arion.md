@@ -6,7 +6,7 @@ tags:
 
 # Arion64
 
-percorso immagine
+![arion64](../eg/Y/arion64.jpg)
 
 ## Descrizione
 

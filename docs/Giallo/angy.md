@@ -4,9 +4,9 @@ tags:
 
 ...
 
-# ANGELA A
+# Angy
 
-percorso immagine
+![angy](../eg/Y/angy.jpg)
 
 ## Descrizione
 

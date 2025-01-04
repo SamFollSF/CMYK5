@@ -1,12 +1,12 @@
 ---
 tags:
-  - DataHunter
+  - Snoctix.inc
 
 ...
 
 # PickMeGiuls
 
-percorso immagine
+![pickmegiuls](../eg/C/pickme.jpg)
 
 ## Descrizione
 

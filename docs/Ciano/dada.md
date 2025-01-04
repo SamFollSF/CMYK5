@@ -6,7 +6,7 @@ tags:
 
 # Dada
 
-percorso immagine
+![dada](../eg/C/dada.jpg)
 
 ## Descrizione
 
