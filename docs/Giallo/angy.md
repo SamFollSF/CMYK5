@@ -1,9 +1,19 @@
 ---
 tags:
-  - Original
+  - Web Intelligence
 
 ...
 
 # ANGELA A
 
-dioporco
+percorso immagine
+
+## Descrizione
+
+PlaceHolder
+
+## Colore
+
+Place Holde
+
+## Curiosità

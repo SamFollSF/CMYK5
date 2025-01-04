@@ -1,7 +1,1 @@
----
-tags:
-  - ZZZ
-
-...
-
-# carte nere placeholder
+# Key Color

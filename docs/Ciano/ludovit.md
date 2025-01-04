@@ -1,9 +1,19 @@
 ---
 tags:
-  - Original
+  - Red Winter
 
 ...
 
 # 1udovìt
 
-dioalto
+percorso immagine
+
+## Descrizione
+
+PlaceHolder
+
+## Colore
+
+Place Holder
+
+## Curiosità

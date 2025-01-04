@@ -6,4 +6,14 @@ tags:
 
 # Sabry C
 
-dioporco
+percorso immagine
+
+## Descrizione
+
+PlaceHolder
+
+## Colore
+
+Place Holder
+
+## Curiosità

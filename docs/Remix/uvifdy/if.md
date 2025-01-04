@@ -1,9 +1,0 @@
----
-tags:
-  - Extraspettrale
-
-...
-
-# Infrarossi
-
-dioporco

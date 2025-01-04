@@ -1,9 +1,19 @@
 ---
 tags:
-  - Original
+  - Street Art
 
 ...
 
 # Carl Kind
 
-dioporco
+percorso immagine
+
+## Descrizione
+
+PlaceHolder
+
+## Colore
+
+Place Holder
+
+## Curiosità

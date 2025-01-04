@@ -1,9 +1,19 @@
 ---
 tags:
-  - Original
+  - Red Winter
 
 ...
 
 # Gabmiglior
 
-dioporco
+percorso immagine
+
+## Descrizione
+
+PlaceHolder
+
+## Colore
+
+Place Holder
+
+## Curiosità

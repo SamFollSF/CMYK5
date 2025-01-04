@@ -10,3 +10,20 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.md-header {
+    background-image: url();
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain; /* Adatta l'immagine alla dimensione */
+    height: 80px; /* Imposta l'altezza corretta per l'immagine */
+}
+
+@font-face {
+    font-family: "Nippo"; /* Nome del font */
+    src: url("Nippo.otf") format("truetype");
+}
+
+body {
+    font-family: "Nippo", sans-serif; /* Applica il font al corpo del sito */
+}

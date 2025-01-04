@@ -3,6 +3,7 @@ site_url: https://mydomain.org/mysite
 theme:
   logo: assets/lostesso.png
   name: material
+
   palette: 
 
     - scheme: default
@@ -20,7 +21,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
-    # - toc.integrate
+      # - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
@@ -50,58 +51,64 @@ nav:
  - Home: index.md
  - CYAN: 
     - Ciano/carteciano.md
-    - Ciano/thedea.md
-    - Ciano/pakolapp.md
-    - Ciano/lele.md
-    - Ciano/kekka.md
-    - Ciano/karuto.md
-    - Ciano/iuffredo.md
     - Ciano/dada.md
+    - Ciano/iuffredo.md
+    - Ciano/karuto.md
+    - Ciano/lele.md
     - Ciano/ludovit.md
+    - Ciano/pakolapp.md
     - Ciano/pistilli.md
+    - Ciano/thedea.md
+    - Ciano/kekka.md
  - MAGENTA: 
     - cartemag.md
-    - Magenta/solisnoctix.md
+    - Magenta/alesdreams.md
+    - Magenta/androzz.md
+    - Magenta/santin.md
+    - Magenta/chitty.md
+    - Magenta/dx4vid.md
     - Magenta/ilpanettone.md
     - Magenta/sawako.md
-    - Magenta/santin.md
-    - Magenta/zoro.md
-    - Magenta/androzz.md
-    - Magenta/dx4vid.md
-    - Magenta/alesdreams.md
     - Magenta/shadowelite.md
-    - Magenta/chitty.md
+    - Magenta/solisnoctix.md
+    - Magenta/zoro.md
  - YELLOW:
     - cartegia.md
-    - Giallo/frashadow.md
-    - Giallo/arion.md
     - Giallo/angy.md
-    - Giallo/del.md
+    - Giallo/arion.md
+    - Giallo/frashadow.md
     - Giallo/gmlrc.md
     - Giallo/hedro.md
-    - Giallo/ludemart.md
     - Giallo/martin.md
+    - Giallo/ludemart.md
     - Giallo/mc6.md
     - Giallo/postfry.md
     - Giallo/redghost.md
     - Giallo/sabry.md
+    - Giallo/del.md
  - KEY COLOR:
     - cartener.md
-    - Nero/bird.md
+    - Nero/kind.md
     - Nero/gabmiglior.md
     - Nero/giocosty.md
-    - Nero/kind.md
+    - Nero/bird.md
     - Nero/opsg.md
     - Nero/pulak.md
     - Nero/stray.md
     - Nero/valeriacci.md
  - R3M1X:
     - carterem.md
-    - Remix/uvifdy/extraspettrale.md
-    - Remix/uvifdy/uv.md
-    - Remix/uvifdy/if.md
-    - Remix/uvifdy/kyle.md
-    - Remix/uvifdy/katia.md
+    - Remix/crystal.md
+    - Remix/extraspettrale.md
+    - Remix/graffiti.md
+    - Remix/deep.md
+    - Remix/metal.md
+    - Remix/mixture.md
+    - Remix/over.md
+    - Remix/rgb.md
+    - Remix/sa742sa.md
+    - Remix/samfollsf.md
+    - Remix/tool.md
  - Set: tags.md
  - News:
     - blog/index.md
@@ -110,12 +117,6 @@ extra:
   social:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/samfoll.design?igsh=enB6NHZiMWt1bnl6
-  consent:
-    title: Hey! Dove credi di andare?
-    description: >- 
-      Sei un fallito che ha perso moglie, lavoro e amici? non preoccuparti, accettando qui sotto accetterai di
-      vendere la tua anima al diavolo per la cifra di Euro 20, che ti permetterà di fare la tua ultima scommessa
-      al casinò e sperare di riprenderti la tua vita. In caso contrario la SamFollSF.inc non si assume alcuna responsabilità.
 
 extra_css:
   - assets/custom.css
