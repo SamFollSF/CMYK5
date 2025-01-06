@@ -18,8 +18,9 @@ Il Rubino, in natura, è un corindone rosso, il cui nome deriva dal latino "rube
 
 ## Curiosità
 
-- È una fan incallita di Hello Kitty.
+- È una fan incallita di Hello Kitty, ha pure una foto insieme a lei.
 - Anche se non è chiaro come, tra il suo guardaroba à spawnato una giacca della squadra di calcio Puteolana.
+- Riesce a maneggiare armi bianche con molta eleganza, l'Operazione Red Winter ha concesso lei di portare in giro con sè una Katana.
 - Chitty è l'Agent di Chiara Marciano.
 
 # Versione Mazzo 1.0

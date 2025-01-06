@@ -19,6 +19,8 @@ L'Acquamarina nasce in natura sotto forma di cristalli esagonali (la più grande
 ## Curiosità
 
 - Anche se non si direbbe dal colore della carta, il suo colore preferito è il Viola.
+- Sul suo vestito è presente il logo di appartenenza alla Snoctix.inc.
+- Sul collo è presente un tatoo di un uccello.
 - Nel tempo libero passeggia sulle rive dei grandi ristagni d'acqua alla ricerca di vetrini che può usare per i suoi accessori.
 - Ha un notevole autocontrollo, anche se in alcuni casi dei fastidiosissimi [SamFollSF](../Remix/samfollsf.md) tirano molto la corda.
 - Lele è l'Agent di Alessia Cozzolino.

@@ -22,6 +22,8 @@ Fiori fitti, vicini, profumo inconfondibile, il colore proviene dai fiori di lil
 
 - Ha un patrimonio monetario notevole, è in possesso di 4 ville sparse per il Surface Web, Automobili e persino una barca.
 - Di anni '70 c'è solo lo stile della carta e del suo vestiario.
+- Indossa una fascia con sopra il logo di Blender.
+- Sulla sua canotta è presente la scritta "Vomero" con annesso il blocco 272.
 - Androzz è l'Agent di Andrea Varriale.
 
 # Versione Mazzo 1.0

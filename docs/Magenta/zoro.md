@@ -21,6 +21,8 @@ Via di mezzo fra il porpora e il rosa, anche qui il nome del tono deriva dall'He
 ## Curiosità
 
 - Pratica diversi sport, come il pugilato. Frequenta anche le loro controparti di "Palestre". Per maggiori informazioni consulta la carta di [MC6](../Giallo/mc6.md)
+- Sul suo capello c'è la dicitura 3 X 10.
+- All'interno delle lenti degli occhiali c'è la scritta ZO - RO.
 - Per spostarsi nel Web usa solitamente la sua bici. Esatto, esistono anche le bici nel Web.
 - Zoro è l'Agent di Giuseppe Pisanti.
 

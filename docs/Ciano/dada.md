@@ -1,6 +1,6 @@
 ---
 tags:
-  - Placeholder
+  - Frutiger Age
 
 ...
 
@@ -23,6 +23,8 @@ Da Renoir, che lo ha usato per la sua Madame Monet che legge, a Harry Potter e i
 ## Curiosità
 
 - Sul suo top è presente la scritta "LIBERATO" con sotto scritto "Non ho voglia di cercare i nomi delle canzoni di questo sopravvalutato". (Anche se è troppo piccola per esser letta ad occhio nudo).
+- Uno dei suoi orecchini è una "N" dello scudetto del Napoli.
+- Sul suo braccio destro ha un tatoo di una rosa.
 - Sul suo braccio è presente il tatoo di una rosa, in riferimento alla controparte reale.
 - Dada è l'Agent di Danila Puoti.
 

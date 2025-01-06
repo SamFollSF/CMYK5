@@ -22,6 +22,7 @@ O lo ami o lo odi: il fucsia non conosce mezze misure. Prende il suo nome dalla 
 - Con BlaseJewel51 si divertiva a giocare con lui al nintendo prima che quest'ultimo diventasse un criminale senza scrupoli, nel lontano 2012.
 - Lo sfondo della carta si rifà al [Frutiger Aero](../Remix/frutiger.md).
 - Sawako parla perfettamente Inglese, Giapponese, Francese e Russo.
+- Ha sulla sua testa una piccola paperella, l'avatar su Playstation Network.
 - Sawako è il Manager di Tiziana Follera.
 
 # Versione Mazzo 1.0

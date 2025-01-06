@@ -16,12 +16,15 @@ Ella è a conoscenza di molti sospettati, tra cui [SamFollSF](../Remix/samfollsf
 
 ## Colore
 
-È il vino giovane, irrequieto, che sobbolle, che non è ancora pronto. Il Mosto è piuttosto torbido, ma associato al beauty svela tutto il suo fascino e risulta molto bello per diverse applicazioni: dagli smalti al rossetto, fino a un eyeliner più particolare.
+È il vino giovane, irrequieto, che sobbolle, che non è ancora pronto. Il Mosto (Must) è piuttosto torbido, ma associato al beauty svela tutto il suo fascino e risulta molto bello per diverse applicazioni: dagli smalti al rossetto, fino a un eyeliner più particolare.
 
 ## Curiosità
 
 - Il presidente dispone dell'appoggio della Web Intelligence per le sue ricerche, si stima che entro il 2035 tutti gli Strumenti dei Fondatori saranno archiviati e successivamente distrutti la maggiornaza, per evitare una fuga di risorse futura.
 - Conosce perfettamente il Russo, d'altronde tutta l'operazione ha avuto inizio nei server Russi.
+- Uno dei suoi orecchini è un fantasma di Pac-Man.
+- Porta sempre con sè una molotov con la skin di una bottiglia di Vodka.
+- Indossa due spille con due bandiere: una russa e l'altra dell'Estonia.
 - Ales Dreams è l'Agent di Alessandra Piano.
 
 # Versione Mazzo 1.0

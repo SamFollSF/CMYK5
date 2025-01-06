@@ -24,6 +24,8 @@ Nel I secolo d. C. Plinio il Vecchio descrisse il lapislazzulo come "un framment
 
 - È un abilissimo pilota sulle due ruote. Preferisce infatti spostarsi per il Surface Web con il suo SimJet blu al quale è molto legato.
 - Spende il proprio tempo libero insieme a SamFollSF nelle varie sale scommesse presenti nel Web. È possibile scommettere sia su eventi del mondo reale sia su eventi esclusivamente digitali, come i combattimenti fra [Cavalieri di Bronzo](../Remix/metal.md).
+- La sua giacca ha un cerchio che richiama la felpa di Rayman.
+- Indossa una maglietta con una goccia gigante al centro, merch ufficiale nel web dei Cosang.
 - The Deather è l'Agent di Giuseppe Tella.
 
 # Versione Mazzo 1.0

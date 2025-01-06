@@ -19,6 +19,8 @@ Celeste è il mantello della Vergine nei dipinti di arte sacra del Rinascimento;
 ## Curiosità
 
 - Pako è amante della fotografia, che a differenza del nostro mondo lì è un settore ancora in grande voga. Oltre a fotografare auto per lavoro, i soggetti delle sue foto sono anche vicoli malridotti della metropoli.
+- Su i suoi occhiali è presente il nome PA - KO.
+- Gli sponsor che ha sulla sua tuta sono: Chevrolet (Spark), It's WCO ed E-cola.
 - Ha un numero spropositato di ore su Grand Theft Auto V, perché sì anche gli Agent giocano ai videogiochi.
 - Sà parlare perfettamente lo Spagnolo.
 - Pako Lapp è l'Agent di Pasuale Lappone
