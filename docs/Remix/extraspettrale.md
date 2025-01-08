@@ -1,33 +1,33 @@
 # Extraspettrali
 
-immagine
+![extraspettrale](../eg/5/pptxuvif.jpg)
 
 ## Spettro Visibile
 
-immagine
+![spettrovisibile](../eg/5/visible.jpg)
 
 descrizione
 
 ## Infrarossi
 
-immagine
+![infrarossi](../eg/5/if.jpg)
 
 descrizione
 
 ### Kyle
 
-immagine
+![kyle](../eg/5/kyle.jpg)
 
 descrizione
 
 ## Ultravioletti
 
-immagine
+![ultravioletti](../eg/5/uv.jpg)
 
 descrizione
 
 ### Katia
 
-immagine
+![katia](../eg/5/katia.jpg)
 
 descrizione

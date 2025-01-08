@@ -1,6 +1,6 @@
 # Key Color
 
-![nero](../eg/key.jpg)
+![nero](eg/key.jpg)
 
 Carta al 100% Nera, indispensabile per la sintesi sottrattiva. Il tema di questo mazzo è il vintage.
 

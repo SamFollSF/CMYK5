@@ -6,7 +6,7 @@ tags:
 
 # Giocosty
 
-percorso immagine
+percorso
 
 ## Descrizione
 

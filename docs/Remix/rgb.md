@@ -1,19 +1,21 @@
 # Rgb
 
-immagine
+![rgb](../eg/5/pptxrgb.jpg)
 
 panoramica descrizione
 
 ## Blu
 
-immagine
+![blu](../eg/5/blu.jpg)
 
 Descrizione
 
 ## Rosso
 
-idem
+![red](../eg/5/rosso.jpg)
 
 ## Verde
 
-idem
+![green](../eg/5/verde.jpg)
+
+# Versione Mazzo 1.0

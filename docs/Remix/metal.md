@@ -1,29 +1,26 @@
-# Metalli
+# Metalli Nobili
 
-immagine
+![metallinobili](../eg/5/pptxmetal.jpg)
 
 descrizione panoramica
 
 ## Bronzo
 
-immagine
+![bronzo](../eg/5/copper.jpg)
 
 descrizione
 
 ## Argento
 
-idem
+![argento](../eg/5/silver.jpg)
 
 ## Oro
 
-idem
+![oro](../eg/5/gold.jpg)
 
 ## Platino
 
-idem
+![platino](../eg/5/platinum.jpg)
 
-## Classificazione del potere
 
-immagine
-
-descrizione
+# Versione Mazzo 1.0

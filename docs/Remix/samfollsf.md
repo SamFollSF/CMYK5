@@ -19,3 +19,5 @@ blah blah.
 immagine
 
 ## Curiosità
+
+# Versione Mazzo 1.0

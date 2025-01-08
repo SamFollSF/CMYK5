@@ -1,17 +1,19 @@
 # Overthrown
 
-immagine
+![overthrown](../eg/5/pptxover.jpg)
 
 panoramica descrizione
 
 ## BlaseJewel51
 
-immagine
+![blasejewel51](../eg/5/blase.jpg)
 
 panoramica descrizione
 
 ## ExparFra
 
-immagine
+![exparfra](../eg/5/expar.jpg)
 
 panoramica descrizione
+
+# Versione Mazzo 1.0

@@ -1,19 +1,21 @@
 # Miscela
 
-immagine
+![miscela](../eg/5/pptxmix.jpg)
 
 panoramica descrizione
 
 ## Blu
 
-immagine
+![blumix](../eg/5/bluemix.jpg)
 
 Descrizione
 
 ## Rosso
 
-idem
+![rossomix](../eg/5/redmix.jpg)
 
 ## Verde
 
-idem
+![verdemix](../eg/5/greenmix.jpg)
+
+# Versione Mazzo 1.0

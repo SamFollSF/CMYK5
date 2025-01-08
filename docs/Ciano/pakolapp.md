@@ -23,6 +23,6 @@ Celeste è il mantello della Vergine nei dipinti di arte sacra del Rinascimento;
 - Gli sponsor che ha sulla sua tuta sono: Chevrolet (Spark), It's WCO ed E-cola.
 - Ha un numero spropositato di ore su Grand Theft Auto V, perché sì anche gli Agent giocano ai videogiochi.
 - Sà parlare perfettamente lo Spagnolo.
-- Pako Lapp è l'Agent di Pasuale Lappone
+- Pako Lapp è l'Agent di Pasuale Lappone.
 
 # Versione Mazzo 1.0
