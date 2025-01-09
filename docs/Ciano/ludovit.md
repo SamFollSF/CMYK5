@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Agente dell'Operazione Red Winter specializzato nell'identificare [Chiavi Quadridimensionali](../Remix/tool.md) ottenute in modo illegale. Attraverso il suo speciale orologio riesce a tenere sotto controllo la quarta dimensione, potendo individuare velocemente se vi sono movimenti sospetti tra le dimensioni. Ha ottenuto questo lavoro tramite il reclutamento da parte di [Ales Dreams](../Magenta/alesdreams.md), ma ne parleremo meglio nella sua carta.
+Agente dell'Operazione [Red Winter](../Magenta/alesdreams.md) specializzato nell'identificare [Chiavi Quadridimensionali](../Remix/tool.md) ottenute illegalmente. Attraverso il suo speciale orologio riesce a tenere sotto controllo la quarta dimensione, potendo individuare velocemente se vi sono movimenti sospetti tra le dimensioni. Ha ottenuto questo lavoro tramite il reclutamento da parte di [Ales Dreams](../Magenta/alesdreams.md), ma ne parleremo meglio nella sua carta.
 
 ## Colore
 

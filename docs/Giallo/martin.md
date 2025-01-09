@@ -1,6 +1,6 @@
 ---
 tags:
-  - Batcancer
+  - Batcancer / HotRide
 
 ...
 
@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Arruolato nell'esercito del Surface Web dal 2018, inizialmente insieme a [Il Panettone](../Magenta/ilpanettone.md), che però ha lasciato poco dopo, It's Martin non ha mai avuto molto da fare oltre a qualche simulazione periodica. La vera difesa di questa regione del Web è affidata a chi opera nelle profondità più remote, ma di questo parleremo più avanti. Morale della favola: It's Martin può passare intere giornate a giocare a Call of Duty... e viene pure pagato per farlo.
+Arruolato nell'esercito del [Surface Web](../Remix/deep.md) dal 2018, inizialmente insieme a [Il Panettone](../Magenta/ilpanettone.md), che però ha lasciato poco dopo, It's Martin non ha mai avuto molto da fare oltre a qualche simulazione periodica. La vera difesa di questa regione del Web è affidata a chi opera nelle profondità più remote, ma di questo parleremo più avanti. Morale della favola: It's Martin può passare intere giornate a giocare a Call of Duty... e viene pure pagato per farlo.
 
 ## Colore
 

@@ -12,7 +12,7 @@ tags:
 
 Facciamo un tuffo negli anni ’70, anche se di quel decennio qui c’è ben poco. Androzz è un Agent molto abile nella modellazione 3D, utilizzando software come Blender, un mondo lontano dalle competenze di [SamFollSF](../Remix/samfollsf.md). Questa capacità lo rende non solo estremamente agile nei movimenti, grazie alla sua costante interazione con le tre dimensioni, ma anche ben attrezzato grazie al suo armamentario personalizzato.
 
-Androzz è in grado di creare armi di qualsiasi tipo e forma, che poi rivende principalmente nel Deep Web. In questa regione del Web, reperire un’arma è molto più difficile rispetto al Surface Web, e persino armi realizzate in PLA possono fare la differenza.
+Androzz è in grado di creare armi di qualsiasi tipo e forma, che poi rivende principalmente nel [Deep Web Nascosto](../Remix/deep.md). In questa regione del Web, reperire un’arma è molto più difficile rispetto al [Surface Web](../Remix/deep.md), e persino armi realizzate in PLA possono fare la differenza.
 
 ## Colore
 

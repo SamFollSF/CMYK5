@@ -12,7 +12,7 @@ tags:
 
 OpsGiuly proviene dal blocco 272, dove lo stile predominante è ispirato al cartoon vintage. È in possesso di una [Chiave Quadridimensionale](../Remix/tool.md), uno Strumento dei Fondatori che consente di creare Whormole.
 
-In maniera sconsiderata, ha deciso di girare per il Web portando questo oggetto altamente illegale ben visibile, attirando così l’attenzione delle forze dell'ordine del Web, dell'Operazione Red Winter e di vari criminali desiderosi di impossessarsene. Tra questi c’è anche [SamFollSF](../Remix/samfollsf.md), che, pur interessato alla Chiave, ha scelto di non forzare la situazione per evitare ulteriori guai.
+In maniera sconsiderata, ha deciso di girare per il Web portando questo oggetto altamente illegale ben visibile, attirando così l’attenzione delle forze dell'ordine del [Surface Web](../Remix/deep.md), dell'Operazione Red Winter e di vari criminali desiderosi di impossessarsene. Tra questi c’è anche [SamFollSF](../Remix/samfollsf.md), che, pur interessato alla Chiave, ha scelto di non forzare la situazione per evitare ulteriori guai.
 
 Tuttavia, questo non significa che i due siano in buoni rapporti. Al contrario, si odiano profondamente, e se avessero l’opportunità di eliminarsi a vicenda in maniera controllata, non esiterebbero a farlo.
 

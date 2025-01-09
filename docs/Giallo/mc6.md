@@ -22,7 +22,7 @@ Il Lime è un colore a metà fra il giallo e il chartreuse, chiamato così propr
 
 ## Curiosità
 
-- Le palestre sono le stesse del mondo reale, quindi sì la Loca Gym esiste anche nel Surface Web e MC6 la frequenta 3 volte a settimana.
+- Le palestre sono le stesse del mondo reale, quindi sì la Loca Gym esiste anche nel [Surface Web](../Remix/deep.md) e MC6 la frequenta tre volte a settimana.
 - Insieme a [SamFollSF](../Remix/samfollsf.md) detiene una lega di Fantacalcio, anche in questo caso le stesse squadre del mondo reale.
 - Ha una medaglia sul petto dorata con il simbolo di un pallone da Calcio.
 - La sua squadra del cuore è sempre di Milano ma non è rossonera, mi dispiaca Michele.

@@ -1,6 +1,6 @@
 ---
 tags:
-  - PlugIn
+  - Mila Giri
 
 ...
 
@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-HeDroSheMmia è un reporter e ricercatore inviato in luoghi esotici del Web, in particolare nelle aree in cui sopravvive ancora un minimo di vegetazione vicino ai grandi ristagni d'acqua. Il suo lavoro consiste nel documentare i cambiamenti della flora in queste zone, poiché si trattano di specie estremamente a rischio estinzione a causa della continua edificazione del Web. Questo sviluppo incontrollato sta creando enormi problemi anche nella gestione amministrativa del Surface Web. 
+HeDroSheMmia è un reporter e ricercatore inviato in luoghi esotici del [Surface Web](../Remix/deep.md), in particolare nelle aree in cui sopravvive ancora un minimo di vegetazione vicino ai grandi ristagni d'acqua. Il suo lavoro consiste nel documentare i cambiamenti della flora in queste zone, poiché si trattano di specie estremamente a rischio estinzione a causa della continua edificazione del Web. Questo sviluppo incontrollato sta creando enormi problemi anche nella gestione amministrativa del [Surface Web](../Remix/deep.md). 
 
 ## Colore
 

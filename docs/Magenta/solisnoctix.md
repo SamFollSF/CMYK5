@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Ella è la fondatrice e proprietaria della Snoctix.inc, una corporazione detentrice dei business di [Brioch33](santin.md), [Lele](../Ciano/lele.md) e [PickMeGiuls](../Ciano/pistilli.md). La prima lavora con Giuls nella raccolta e successiva rivendita di dati sensibili violando le norme di sicurezza del Deep Web esposto. Lele invece dirige siti di scavo alla ricerca di [Web Crystals](../Remix/crystal.md), un ordine subordinato a quello dei [Metalli](../Remix/metal.md) che permette di ottenere vari benefici. Meglio non scherzarci troppo, Solisnoctix è una vera potenza nel Surface Web, stata soggetta di molte inchieste da parte del Governo senza però mai sfociare in niente di rilevante.
+Ella è la fondatrice e proprietaria della Snoctix.inc, una corporazione detentrice dei business di [Brioch33](santin.md), [Lele](../Ciano/lele.md) e [PickMeGiuls](../Ciano/pistilli.md). La prima lavora con Giuls nella raccolta e successiva rivendita di dati sensibili violando le norme di sicurezza del [Deep Web Esposto](../Remix/deep.md). Lele invece dirige siti di scavo alla ricerca di [Web Crystals](../Remix/crystal.md), un ordine subordinato a quello dei [Metalli](../Remix/metal.md) che permette di ottenere vari benefici. Meglio non scherzarci troppo, Solisnoctix è una vera potenza nel [Surface Web](../Remix/deep.md), stata soggetta di molte inchieste da parte del Governo senza però mai sfociare in niente di rilevante.
 
 ## Colore
 

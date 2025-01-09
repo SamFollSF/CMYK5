@@ -1,4 +1,4 @@
-# Strumenti
+# Strumenti dei Fondatori
 
 immagine
 

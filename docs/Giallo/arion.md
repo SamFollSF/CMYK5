@@ -22,6 +22,7 @@ Come l'arancione, il Mandarino comunica spensieratezza e buon umore, ma ha una t
 
 - Ha ormai litigato un numero incalcolabile di volte con [SamFollSF](../Remix/samfollsf.md) che ormai si odiano a vicenda.
 - La sua collana ha come ciondolo il simbolo di Itachi.
+- È molto abile nel disegno, e sta cercando di far diventare questa sua passione in un lavoro, anche se nel Web il concetto di disegno è molto di nicchia.
 - La protesi che ha sulla testa ricordano vagamente delle corne dell'Hellaverse.
 - Per via delle sue protesi i suoi impulsi elettrici sono più dispersivi.
 - Arion64 è l'Agent di Vincenzo De Lucia.

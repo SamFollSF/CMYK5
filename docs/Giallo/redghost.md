@@ -1,6 +1,6 @@
 ---
 tags:
-  - Batcancer
+  - Batcancer / HotRide
 
 ...
 
@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Un appassionato collezionista di trofei, simboli dei quattro metalli nobili del Web Verse: Rame, Argento, Oro e Platino. Tuttavia, questi trofei non sono composti interamente dai metalli che rappresentano. Ad esempio, il trofeo di platino – come gli altri – contiene solo il 10% di rame, mentre il resto è costituito da metalli meno pregiati. Quindi sì, purtroppo i trofei di Platino contengono lo 0% di questo metallo e così via.
+Un appassionato collezionista di trofei, simboli dei quattro metalli nobili del WebVerse: Rame, Argento, Oro e Platino. Tuttavia, questi trofei non sono composti interamente dai metalli che rappresentano. Ad esempio, il trofeo di platino – come gli altri – contiene solo il 10% di rame, mentre il resto è costituito da metalli meno pregiati. Quindi sì, purtroppo i trofei di Platino contengono lo 0% di questo metallo e così via.
 
 Inizialmente, era a caccia di trofei insieme a SamFollSF, ma il loro rapporto si è incrinato quando quest’ultimo ha deciso di abbandonare il progetto, considerandolo una perdita di tempo.
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - HotRide
+  - Batcancer / HotRide
 
 ...
 

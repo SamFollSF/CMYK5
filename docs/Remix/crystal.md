@@ -44,10 +44,12 @@ Ametista: [IlPanettone](../Magenta/ilpanettone.md)
 
 Rubino: [Chitty](../Magenta/chitty.md)
 
-Rubellite: [Solisnoctix](../Magenta/solisnoctix.jpg)
+Rubellite: [Solisnoctix](../Magenta/solisnoctix.md)
 
-Citrino:
+Citrino: [Geadamn](../Giallo/geadamn.md)
 
 Peridoto
 
 Zolfo Cristallizato: [Frashadow](../Giallo/frashadow.md)
+
+# Versione Mazzo 1.0

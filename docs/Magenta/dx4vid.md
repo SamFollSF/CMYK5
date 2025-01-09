@@ -1,6 +1,6 @@
 ---
 tags:
-  - PlugIn
+  - Mila Giri
 
 ...
 
@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Dx4vid organizza eventi nelle regioni del Web vicine ai grandi ristagni d'acqua, dove si trovano vere e proprie baite lungo le sponde. Lui stesso possiede una di queste baite, situata nel Blocco 14. Tuttavia, è raro che i partecipanti a queste feste decidano di tuffarsi in acqua: da un lato, perché l'acqua è verdognola e molto sporca; dall'altro, perché pochi Agent sanno nuotare. Dx4vid, peraltro, è tra i pochi che hanno questa abilità.
+Dx4vid organizza eventi nelle regioni del [Surface Web](../Remix/deep.md) vicine ai grandi ristagni d'acqua, dove si trovano vere e proprie baite lungo le sponde. Lui stesso possiede una di queste baite, situata nel Blocco 14. Tuttavia, è raro che i partecipanti a queste feste decidano di tuffarsi in acqua: da un lato, perché l'acqua è verdognola e molto sporca; dall'altro, perché pochi Agent sanno nuotare. Dx4vid, peraltro, è tra i pochi che hanno questa abilità.
 
 ## Colore
 

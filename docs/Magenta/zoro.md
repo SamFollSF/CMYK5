@@ -10,9 +10,9 @@ tags:
 
 ## Descrizione
 
-Un writer di graffiti nel Surface Web. Come nel nostro mondo, anche qui esiste il concetto di vandalismo su luoghi pubblici, considerato a tutti gli effetti un reato. I motivi che spingono molti writer e crew a intraprendere questa attività sono spesso di natura sociale: un modo di protestare e far sentire la propria voce, muovendosi nell'ombra.
+Un writer di graffiti nel [Surface Web](../Remix/deep.md). Come nel nostro mondo, anche qui esiste il concetto di vandalismo su luoghi pubblici, considerato a tutti gli effetti un reato. I motivi che spingono molti writer e crew a intraprendere questa attività sono spesso di natura sociale: un modo di protestare e far sentire la propria voce, muovendosi nell'ombra.
 
-Solo i writer più esperti osano spingersi nel Deep Web per espandere questa forma d’arte, quasi sempre accedendo tramite entrate clandestine.
+Solo i writer più esperti osano spingersi nel [Deep Web](../Remix/deep.md) per espandere questa forma d’arte, quasi sempre accedendo tramite entrate clandestine.
 
 ## Colore
 

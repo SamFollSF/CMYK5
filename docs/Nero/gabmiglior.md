@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Anche Gabmiglior fa parte dell'Operazione Red Winter, incaricata di rintracciare [Strumenti dei Fondatori](../Remix/tool.md) ottenuti illegalmente. La sua specialità è l’intercettazione delle Forbici, come quella in possesso di [SamFollSF](../Remix/samfollsf.md). Tuttavia, la verità è che a Gabmiglior non interessa realmente la causa: ha accettato questo lavoro solo perché gli consente di viaggiare nel Surface Web portando sempre con sé un’arma da fuoco.
+Anche Gabmiglior fa parte dell'Operazione Red Winter, incaricata di rintracciare [Strumenti dei Fondatori](../Remix/tool.md) ottenuti illegalmente. La sua specialità è l’intercettazione delle Forbici, come quella in possesso di [SamFollSF](../Remix/samfollsf.md). Tuttavia, la verità è che a Gabmiglior non interessa realmente la causa: ha accettato questo lavoro solo perché gli consente di viaggiare nel [Surface Web](../Remix/deep.md) portando sempre con sé un’arma da fuoco.
 
 ## Colore
 

@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Anche se si sta parlando di un mondo digitale le 4 ruote non possono mancare. Esse vengono usate per spostamenti lunghi nella megatropoli del Surface Web. PakoLapp lavora come dipendente in un concessionario di auto di lusso di grande prestigio, L'Imperium Space. tuttavia, nel tempo libero non si fa scappare la possibilità di partecipare a gare clandestine con i suoi amici.
+Anche se si sta parlando di un mondo digitale le 4 ruote non possono mancare. Esse vengono usate per spostamenti lunghi nella megatropoli del [Surface Web](../Remix/deep.md). PakoLapp lavora come dipendente in un concessionario di auto di lusso di grande prestigio, L'Imperium Space. tuttavia, nel tempo libero non si fa scappare la possibilità di partecipare a gare clandestine con i suoi amici.
 
 ## Colore
 

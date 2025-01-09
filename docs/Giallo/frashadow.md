@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Mago di professione, Frashadow intrattiene spettacoli di magia in tutto il Surface Web. Grazie a questo lavoro ha conosciuto persone di goni tipo, anche boss mafiosi che organizzavano eventi privati.
+Mago di professione, Frashadow intrattiene spettacoli di magia in tutto il [Surface Web](../Remix/deep.md). Grazie a questo lavoro ha conosciuto persone di goni tipo, anche boss mafiosi che organizzavano eventi privati.
 
 Ma quindi, Frashadow è davvero in grado di fare magie inspiegabili? Beh, no. Mi dispiace, ma anche in un mondo completamente digitale, la magia non esiste. Il suo segreto, tuttavia, sta nella creazione dei suoi oggetti di scena, che realizza personalmente: li progetta e li stampa in 3D utilizzando PLA.
 
