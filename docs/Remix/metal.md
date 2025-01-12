@@ -8,9 +8,11 @@ Nel WebVerse esiste una vasta varietà di metalli, tra cui alcuni estremamente r
 
 ![bronzo](../eg/5/copper.jpg)
 
-Il rame è un metallo fondamentale per le comunicazioni nel [Surface Web](../Remix/deep.md), utilizzato principalmente in infrastrutture come gallerie e connessioni elettriche, ben rappresentate nella carta. Il suo mito è incarnato dal Cavalier di Bronzo altamente disciplinato, al servizio dei metalli più potenti. Questi cavalieri sono piuttosto diffusi nel [Surface Web](../Remix/deep.md) e hanno il compito di mantenere l'ordine pubblico, segnalando eventuali crimini agli altri membri della loro rete.
+Il rame è un metallo fondamentale per le comunicazioni nel [Surface Web](../Remix/deep.md), utilizzato principalmente in infrastrutture come gallerie e connessioni elettriche, ben rappresentate nella carta. Il suo mito è incarnato dal Cavalier di Rame altamente disciplinato, al servizio dei metalli più potenti. Questi cavalieri sono piuttosto diffusi nel [Surface Web](../Remix/deep.md) e hanno il compito di mantenere l'ordine pubblico, segnalando eventuali crimini agli altri membri della loro rete.
 
 Il loro design si ispira all'estetica dei cavalieri tradizionali, ma con un tocco futuristico: un elmetto high-tech che integra la realtà aumentata per visualizzare informazioni in tempo reale. Gli elmetti sono inoltre dotati di antenne, garantendo comunicazioni efficienti sia tra i cavalieri che con il governo.
+
+- Numero Atomico: 29.
 
 ## Argento
 
@@ -19,6 +21,8 @@ Il loro design si ispira all'estetica dei cavalieri tradizionali, ma con un tocc
 Gli Angeli Argentati sono noti per la loro incredibile agilità e abilità nei combattimenti aerei grazie alle loro ali metalliche. Il mito che li rappresenta è una figura femminile snella, la cui armatura riduce al minimo le forme tradizionalmente femminili, senza però intaccare la loro personalità. L'essenzialità è un elemento chiave del loro design, motivo per cui indossano sempre un copriocchio su uno dei loro occhi, inizialmente per proteggerlo e utilizzarlo solo nei momenti cruciali. Oggi, questo dettaglio è diventato un simbolo culturale.
 
 Il loro ruolo principale è trasferire piccole quantità di bit a velocità elevate, fungendo da corrieri rapidi ed efficienti attraverso il [Surface Web](../Remix/deep.md). Sebbene il loro nome, il loro design è più ispirato all'estetica dei gladiatori che a quella degli Angeli.
+
+- Numero Atomico: 47.
 
 ## Oro
 
@@ -30,6 +34,8 @@ Questi soldati, dotati di una forza bruta, hanno l'ordine di eliminare chiunque 
 
 Il loro design richiama vagamente quello di un Samurai Oni.
 
+- Numero Atomico: 79.
+
 ## Platino
 
 ![platino](../eg/5/platinum.jpg)
@@ -39,5 +45,7 @@ Il platino è il metallo più potente di tutto il Web, considerato una risorsa i
 Ad oggi, nessuno nel Web ha mai avuto accesso a una quantità di Platino sufficiente per creare equipaggiamenti completamente forgiati in questo metallo, ma chiunque ci riuscisse diventerebbe senza dubbio uno degli esseri più potenti mai esistiti.
 
 La straordinaria forza del Platino non si limita all’ambito fisico ma si estende anche a quella interiore e spirituale, dando origine a un vero e proprio culto religioso che circonda questo metallo.
+
+- Numero Atomico: 78.
 
 # Versione Mazzo 1.0

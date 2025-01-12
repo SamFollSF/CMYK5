@@ -6,7 +6,7 @@ tags:
 
 # Gabmiglior
 
-![gabmiglior](../eg/K/gabmiglior.jpg)
+![gabmiglior](../eg/K/gabmiglior2.jpg)
 
 ## Descrizione
 

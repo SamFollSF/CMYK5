@@ -100,6 +100,7 @@ nav:
     - Nero/valeriacci.md
  - R3M1X:
     - carterem.md
+    - Remix/adobe.md
     - Remix/extraspettrale.md
     - Remix/frutiger.md
     - Remix/graffiti.md
@@ -112,7 +113,9 @@ nav:
     - Remix/samfollsf.md
     - Remix/tool.md
     - Remix/crystal.md
- - Extra: tags.md
+ - Extra:
+    - tags.md
+    - credits.md
  - News:
     - blog/index.md
 

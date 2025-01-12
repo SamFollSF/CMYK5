@@ -6,7 +6,7 @@ tags:
 
 # Giocosty
 
-percorso
+![giocosty](../eg/K/giocosty.jpg)
 
 ## Descrizione
 

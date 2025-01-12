@@ -6,7 +6,7 @@ tags:
 
 # KK
 
-percorso
+![kk](../eg/C/kk.jpg)
 
 ## Descrizione
 

@@ -1,25 +1,33 @@
 # Strumenti dei Fondatori
 
-immagine
+![strumenti dei fondatori](../eg/5/pptxfounder%20(2).jpg)
 
-descrizione panoramica
+Gli Strumenti dei Fondatori furono utilizzati dai pionieri del Web per costruire l'iceberg che conosciamo oggi. Nel 1989, a Ginevra, i Fondatori, ovvero i primissimi Agent mai esistiti, vennero incaricati di decidere come distribuire le terre del Web, scegliendo liberamente la forma che preferivano. Si misero al lavoro e, grazie a tre strumenti potentissimi, riuscirono a portare a termine l’impresa.
 
-## Forbice
+Oggi essere in possesso di uno di questi oggetti è illegalissimo, portando a conseguenza gravissime compresa la pena di morte. L'operazione [Red Winter](../Magenta/alesdreams.md) se ne sta occupando attivamente, dando la caccia agli ultimi proprietari rimasti a piede libero.
 
-immagine
+## Chiave Quadridimensionale
 
-descrizione
+![chiave](../eg/5/4dkey.jpg)
 
-## Lente
+La Chiave Quadridimensionale consente di creare portali, noti come Whormole. In pratica, questa chiave è in grado di piegare lo spazio-tempo in un punto preciso, per poi farlo riemergere in un altro. Come illustrato nella carta, i Whormole appaiono come porte rettangolari, idealmente aperte grazie all’utilizzo della chiave.
 
-immagine
+[OpsGiuly](../Nero/opsg.md) è in possesso di una di queste chiavi.
 
-descrizione
+## Forbici CopyPasta
 
-## Chiave
+![forbice](../eg/5/copypasta.jpg)
 
-immagine
+Le Forbici CopyPasta hanno il potere di duplicare qualsiasi oggetto del Web. La forbice azzurra si occupa di copiare, mentre quella rosa incolla e quindi duplica. Tuttavia, gli oggetti duplicati hanno un limite: possono essere utilizzati una sola volta e sono estremamente fragili. Ancora oggi, nessuno sa spiegare come, 30 anni fa, queste forbici siano riuscite a duplicare oggetti in modo permanente.
 
-descrizione
+[SamFollSF](../Remix/samfollsf.md) e [Tulipana Verde](../Giallo/del.md) sono in possesso di queste forbici.
 
-immagine 2
+## Bussola Olistica
+
+![bussola](../eg/5/compass.jpg)
+
+La Bussola Olistica ha accesso a un databes potenzialmente infinito di informazioni. Con questo strumento e la sua immensa potenza di calcolo ci permette di apere quale decisione prendere, se una persona sta mentendo, le conseguenze delle nostre azioni, tutto! È una vera e propria sfera di cristallo digitale.
+
+[Post-Fry](../Giallo/postfry.md) è in possesso di una di queste bussole.
+
+# Versione Mazzo 1.0

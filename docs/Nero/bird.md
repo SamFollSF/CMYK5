@@ -6,7 +6,7 @@ tags:
 
 # Matteowsky
 
-percorso immagine
+![matteowsky](../eg/K/mateowsky.jpg)
 
 ## Descrizione
 

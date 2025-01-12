@@ -8,7 +8,7 @@ descrizione
 
 percorso immagine
 
-descrizione
+descrizione (nota: questi benefici sono di fantasia e non hanno nulla a che vedere con la cristalloterapia tradizionale)
 
 ## Benefici
 
@@ -16,19 +16,32 @@ descrizione
 
 ![cristalligruppo1](../eg/5/crystal1.jpg)
 
-cosa fanno eblah blah.
+Il Lapislazzulo permette di migliorare le capacità uditive a lungo raggio.
+
+Lo Smeraldo aumenta il coraggio del proprietario azzerando la paura verso ciò che teme.
+
+Il Turchese rende chi lo possiede più agile e veloce nei movimenti.
 
 ### Ametista, Rubino e Rubellite
 
 ![cristalligruppo2](../eg/5/crystal2.jpg)
 
-cosa fanno e bla.
+L'Ametista permette di migliorare le capacità visive a lungo raggio.
+
+Il Rubino aumenta la tolleranza al dolore del proprietario azzerandolo del tutto.
+
+La Rubellite rende chi lo possiede di essere temuti e avere autorità.
 
 ### Citrino, Peridoto e Zolfo Cristallizato
 
 ![cristalligruppo3](../eg/5/crystal3.jpg)
 
-cosa fanno
+Il Citrino permette di rimanere nella mente delle persone rendendole devote.
+
+Il Peridoto aumenta le capacità di ricordare e riportare alla memoria.
+
+Lo Zolfo Cristallizato rende chi lo possiede capace di illudere gli sguardi degli altri.
+
 
 ## Riferimenti
 
