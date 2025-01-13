@@ -1,4 +1,4 @@
-# R3M1X
+# Carta "R3M1X"
 
 ![mazzoremix](eg/r3m1x.jpg)
 

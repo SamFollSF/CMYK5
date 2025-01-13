@@ -1,4 +1,4 @@
-# Key Color
+# Carta "Key Color"
 
 ![nero](eg/key.jpg)
 

@@ -1,4 +1,4 @@
-# Magenta
+# Carta "Magenta"
 
 ![magenta](eg/magenta.jpg)
 

@@ -1,4 +1,4 @@
-# Ciano
+# Carta "Ciano"
 
 ![Ciano](../eg/ciano.jpg)
 

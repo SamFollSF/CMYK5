@@ -2,13 +2,11 @@
 
 ![pptxcrystal](../eg/5/pptxcrystal.jpg)
 
-## Classificazione
+## Descrizione
 
-descrizione
+I Cristalli del Web sono pietre preziose che offrono benefici, ciascuna con una caratteristica unica. La loro formazione non ha nulla a che vedere con processi fisici come solidificazioni o brinamenti: nel Web, i cristalli si generano attraverso un fenomeno comune a tutti, ovvero i bug. Esatto, i cristalli non sono altro che errori del sistema. Tuttavia, la loro diffusione divenne così ampia che, invece di eliminarli uno per uno, si decise di conservarli. Oggi possedere questi cristalli non è illegale, anche se il loro utilizzo è vietato in alcuni luoghi pubblici.
 
-percorso immagine
-
-descrizione (nota: questi benefici sono di fantasia e non hanno nulla a che vedere con la cristalloterapia tradizionale)
+L'estrazione è un processo lungo e, con il passare degli anni, le risorse nelle cave del Surface Web si stanno esaurendo, fino al punto in cui non resterà più nemmeno un cristallo. Tuttavia, il [Dark Web](../Remix/deep.md) ne è ancora ricco, ma raggiungere quegli abissi rappresenta un'impresa estremamente difficile.
 
 ## Benefici
 

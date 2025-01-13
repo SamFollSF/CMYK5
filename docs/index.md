@@ -33,3 +33,19 @@ Bene, ora non ti resta che scoprire tutte e 100 le carte! Usa il navigatore qui 
 - [Mazzo R3M1X](carterem.md)
 
 Disclaimer doveroso: Il mazzo CMYK5 non finisce qui, sarà sempre in continua espansione con nuove carte, quindi ti consiglio di seguirmi su Instagram (samfoll.design) per rimanere sempre aggionato o di usare la shceda dedicata "News" nel sito.
+
+## Classificazione
+
+percorso immagine di cloassificazione
+
+Approfitterò di questo spazio per parlare della classificazione di tutto ciò che rende potenti nel web. Dai singoli tipi di cristalli al resto.
+
+Al gradino più basso troviamo i colori della sintesti sottrattiva, ogni Agent o Manager ha un suo colore personale, e gli inchiostri Ciano, Magenta, Giallo e Nero gli conferisce la carica vitale che gli serve per vivere.
+
+Sul grandino più sopra troviamo i Web Crystal.
+
+Sopra ancora gli oggeti dei fondatori.
+
+Sopra i metalli.
+
+# Versione Mazzo 1.0

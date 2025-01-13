@@ -32,7 +32,7 @@ Una personalità così mavlagia e spietata non poteva che avere una folta collez
 
 blah blah.
 
-immagine
+![samfollsf3](../eg/5/samfoll3.jpg)
 
 ## Curiosità
 

@@ -1,4 +1,4 @@
-# Giallo
+# Carta "Giallo"
 
 ![giallo](eg/giallo.jpg)
 
