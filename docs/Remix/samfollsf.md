@@ -10,30 +10,51 @@ tags:
 
 ## Descrizione
 
-Arriviamo al mio Agent, SamFollSF. Egli è un personaggio cruciale nella trama del Mazzo, e ve ne sarete accorti se avete letto le descrizioni delle altre carte. Ribadisco anche qui come Agent e Persona reale sono due soggetti completamente diversi che da un punto di vista caratteriale non hanno nulla a che fare l'una con l'altra, e Sam non fa eccezioni.
+Arriviamo al mio Agent, SamFollSF. Si tratta di un personaggio cruciale nella trama del Mazzo, come avrete notato leggendo le descrizioni delle altre carte. Ribadisco che Agent e Persona reale sono due entità completamente diverse, e dal punto di vista caratteriale non hanno nulla in comune. Sam non fa eccezione.
 
-Come ho già detto nella carta di BlaseJewel51, la vita da fuggitivo e latitante di Sam inzierà quando i due evaderanno di Prigione insieme, anche se nella sua carta parlerò anche del declino fra i due. Oggi Sam non sa nemmeno dove sia il fratello, e a dirla tutta non gli importa assolutamente nulla, e anzi spera sia  morto in quell'inferno.
+In poche parole, SamFollSF è uno psicopatico criminale, un assassino spietato ricercato vivo o morto dal Governo. La sua infanzia è stata tutt’altro che felice, senza una famiglia che gli volesse bene, fatta eccezione per [BlaseJewel51](../Remix/over.md). Ha trascorso i primi anni della sua vita in una struttura in cui i ragazzi venivano cresciuti come topi da laboratorio, per impedire che un giorno potessero vendicarsi sui loro aguzzini. Ancora oggi, Sam non ricorda il luogo in cui è cresciuto: era troppo piccolo per conservarne memoria. L’unico ricordo nitido è la fuga da quel posto insieme a Blase, un evento che avrebbe segnato l’inizio di una vita tutt’altro che semplice.
 
-È in possesso di una Chiave Copypasta, rubata a un contrabbandere di programmi Adobe nel 2021, e quando quest'ultimo si è rifiutato di dargliela Sam non ha esitato un istante a ucciderlo. Quest'ultimo è estremamente spietato, non si fa problemi ad uccidere, per arrivare ai suoi obiettivi è disposto a fare di tutto. Ciò che però non sapeva è che quel contrabbandiere era un uomo di Sa742sa, e una volta che il titolare della prigione del blocco 51 è stato informato di questa notizia le sue ricerche per catturare SamFollSF sono lentamente riniziate.
+Con il passare degli anni, Blase non ha mai rivelato a Sam dove fossero cresciuti, temendo che il fratello potesse cercare quel luogo per distruggerlo. Blase era ben consapevole che quella missione sarebbe stata un suicidio: quel posto era molto più potente di loro.
 
-Una personalità così mavlagia e spietata non poteva che avere una folta collezione di nemici e persone che vogliono ucciderlo, quindi ecco a voi solo una parte dei casini in cui SamFollSF si è cacciato:
+Come già accennato nella carta di BlaseJewel51, la vita da fuggitivi e latitanti di Sam iniziò quando i due evaserono insieme da una prigione. Tuttavia, nella carta di Blase si parlerà anche del declino del loro rapporto. Oggi Sam non sa nemmeno dove si trovi il fratello e, a dirla tutta, non gli importa assolutamente nulla. Anzi, spera che Blase sia morto in quell’inferno.
 
- - È un caso ancora aperto nel padiglione ricercati e dispersi della Web Intelligence a carica di Angy.
+Sam è in possesso di una Forbice Copypasta, rubata a un contrabbandiere di programmi Adobe nel 2021. Quando quest’ultimo si rifiutò di cedergliela, Sam non esitò a ucciderlo. La sua spietatezza non conosce limiti: è disposto a fare qualunque cosa pur di raggiungere i suoi obiettivi. Tuttavia, ciò che Sam ignorava è che quel contrabbandiere era un uomo di [Sa742sa](../Remix/sa742sa.md). Una volta che il titolare della prigione del Blocco 51 venne a conoscenza dell’omicidio, le ricerche per catturare SamFollSF ripresero lentamente.
 
- - Evase dalla prigione più grande del blocco 51 e avrebbe dovuto scontare 2 anni, ma per via dell'evasione se dovesse essere arrestato di nuovo la pena salirebbe a 6 anni (+1 non scontato). Sulle sue tracce c'è Sawako.
+Con una personalità così malvagia e spietata, Sam non poteva che collezionare una folta schiera di nemici e persone determinate a ucciderlo. E questi sono solo alcuni dei casini in cui si è cacciato:
 
- - Dopo un pesantemente litigato con Red Ghost per via di un'attività che SamFollSF ha brutalemnte fatto fallire dopo qualche giorno i due ora non si parlano da circa due anni.
+- SamFollSF è un caso ancora aperto nel padiglione "Ricercati e Dispersi" della Web Intelligence, sotto la supervisione di [Angy](../Giallo/angy.md).
 
- - Ha tentato di assassinare OpsGiuly nell'autunno del 2023 per ottenere la sua Chiave Quadridimensionale, ma per colpa della sua spavalderia aveva sottovalutato l'avversario, e ora si trova a dover combattere anche contro PLACE HOLDER.
- 
- - È in debito di un diamante dalla Snoctix.Inc che non sa bene poter ridare indietro, ma questo è un elemento di trama che verrà esplorato in futuro.
+- È evaso dalla prigione più grande del Blocco 51, dove avrebbe dovuto scontare due anni di reclusione. Tuttavia, a causa della sua fuga, se venisse catturato nuovamente, la pena salirebbe a sei anni, includendo un anno aggiuntivo per il periodo non scontato. Attualmente, sulle sue tracce si trova [Sawako](../Magenta/sawako.md), determinata a porre fine a questa storia.
+
+- Dopo un violento litigio con [Red Ghost](../Giallo/redghost.md), scaturito dal fallimento di un’attività che i due avevano avviato insieme e che era stata rovinata da Sam, i due non si parlano da circa due anni. Se dovessero incontrarsi di nuovo, non esiterebbero a combattere.
+
+- Nell’autunno del 2023, Sam ha tentato di assassinare [OpsGiuly](../Nero/opsg.md) per impossessarsi della sua Chiave Quadridimensionale. Tuttavia, a causa della propria spavalderia, aveva sottovalutato l’avversario. Ora si trova costretto a combattere non solo contro Giuly, ma anche contro i suoi alleati.
+
+- Sam è in debito di un diamante con la [Snoctix.Inc](../Magenta/solisnoctix.md), una situazione complicata che non sa come risolvere. Questo elemento di trama sarà approfondito in futuro.
 
 ![samfollsf2](../eg/5/samfollsf2.jpg)
 
-blah blah.
+Il vero declino nella vita di SamFollSF avviene nel 2020, quando decide di unirsi alla Lega di Bronzo, una setta riservata a chi ha il coraggio di integrare nella propria vita una S Pen metallizzata per accedervi (quella che indossa sulla schiena).
+
+All’inizio, Sam non sembra affatto intimorito, almeno fino a quando non scopre la vera natura di quelle penne. Apparentemente si presentano come semplici oggetti inanimati, armi di supporto. Ma nel momento esatto in cui ne tocca una per la prima volta, la verità gli si rivela: non si tratta solo di penne, ma di esseri viventi. Sono Malware, parassiti, incarnazione della sua più grande fobia.
+
+Da quel giorno, il parassita si insedia nel corpo di Sam, prendendo il controllo di molte delle sue scelte e diventando l’artefice della sua spietatezza. È stato il parassita a orchestrare il tentato omicidio di OpsGiuly, poi fallito. È sempre lui la causa del litigio con Red Ghost. Sam, ormai, non ha più alcuna possibilità di scelta.
+
+Se solo provasse a ribellarsi, il parassita, che ha accesso diretto alle sue componenti vitali, potrebbe prendere il controllo completo del suo corpo e, nel peggiore dei casi, porre fine alla sua vita in un istante.
 
 ![samfollsf3](../eg/5/samfoll3.jpg)
 
+Ora il nostro protagonista non è solo nei guai con gli altri, ma anche con se stesso. Riuscirà a sconfiggere il suo male interiore e a riappacificarsi con i suoi nemici? Oppure, perché no, deciderà di uccidere anche loro? La trama è ancora in una fase primordiale, quindi tutto può cambiare, e il suo sviluppo è ancora in lavorazione. Al momento, non prevedo un testo definitivo o un’opera che possa essere considerata un sequel delle carte prima del 2027, ma mai dire mai.
+
+In ordine cronologico, questa è la 100ª carta, anche se sul sito è posizionata prima per motivi di ordinamento alfabetico. Come chicca finale, è possibile vedere SamFollSF per la prima volta senza occhiali: uno dei suoi occhi è stato accecato dal parassita.
+
 ## Curiosità
+- Usa un linguaggio molto scurrile, anche se nelle carte non assistiamo mai a un dialogo. In futuro con la scrittura della trama sarà tutto più evidente.
+- Egli porta il codino da molto prima del 2020, anno in cui anche io avevo i capelli così lunghi.
+- Vive in un attico del mio Adobe Illustrator, luogo in cui hanno origine le carte.
+- Indossa gli occhiali da sole per nascondere la sua identità e per evitare di far riconoscere il suo tratto distintivo.
+- Riesce a guadagnare molti soldi dall'Import-Export dal Surface al Deep Web di materiale per disegnare con i programmi Adobe.
+- La sua arma, la S Pen Mystic Bronze, è in grado di mutare la sua forma, potendo diventare una pistola, un fucile, un bazooka, un'ascia, una mazza e così via al momento del bisogno.
+- SamFollSF è l'Agent dell'autore delle Carte CMYK5, ovvero io Samuele Follera. Grazie per l'attenzione.
 
 # Versione Mazzo 1.0

@@ -32,20 +32,19 @@ Bene, ora non ti resta che scoprire tutte e 100 le carte! Usa il navigatore qui 
 - [Mazzo Nero](cartener.md)
 - [Mazzo R3M1X](carterem.md)
 
-Disclaimer doveroso: Il mazzo CMYK5 non finisce qui, sarà sempre in continua espansione con nuove carte, quindi ti consiglio di seguirmi su Instagram (samfoll.design) per rimanere sempre aggionato o di usare la shceda dedicata "News" nel sito.
+![ordinedelpotere](eg/ordinedelpotere.jpg)
 
-## Classificazione
+Come si classifica il potere del WebVerse?
 
-percorso immagine di cloassificazione
+Sul gradino più basso troviamo la sintesi sottrattiva dei colori. Ogni Agent o Manager ha un proprio colore, che rappresenta la sua linfa vitale. Tuttavia, i colori interagiscono fra loro con bonus e malus, in modo simile al gioco "Sasso, Carta, Forbici": il Ciano contrasta il Magenta, ma subisce il Giallo; il Magenta vince sul Giallo, ma perde con il Ciano; e infine, il Giallo prevale sul Ciano, ma è battuto dal Magenta. Il Nero, invece, si trova su un livello superiore.
 
-Approfitterò di questo spazio per parlare della classificazione di tutto ciò che rende potenti nel web. Dai singoli tipi di cristalli al resto.
+Al di sopra della sintesi CMY troviamo il Nero, il colore mancante. Questo colore è più forte degli altri e non segue alcuna regola di bilanciamento: è indistintamente il più potente, ma non rappresenta ancora il massimo dei poteri.
 
-Al gradino più basso troviamo i colori della sintesti sottrattiva, ogni Agent o Manager ha un suo colore personale, e gli inchiostri Ciano, Magenta, Giallo e Nero gli conferisce la carica vitale che gli serve per vivere.
+Sul gradino più basso del podio si collocano i [Web Crystals](Remix/crystal.md), ciascuno con il proprio beneficio particolare. Il più potente, almeno per ora, è il Rubino, mentre gli altri cristalli, in ordine casuale, lasciano a discrezione personale decidere quale sia più forte. Tuttavia, il cristallo più potente di tutti sarà rivelato solo nel Mazzo 1.1.
 
-Sul grandino più sopra troviamo i Web Crystal.
+Al secondo posto troviamo gli [Strumenti dei Fondatori](Remix/tool.md): Chiavi, Forbici e Bussole. Possedere uno di questi strumenti è considerato illegale, vista la loro straordinaria potenza. Con essi è possibile teletrasportarsi, duplicare oggetti o compiere scelte sempre perfette, grazie all’immensa capacità di calcolo che offrono.
 
-Sopra ancora gli oggeti dei fondatori.
-
-Sopra i metalli.
+Infine, al primo posto della classifica troviamo i [Metalli Nobili](Remix/metal.md), disposti in ordine crescente: Bronzo, Argento, Oro e Platino. Quest’ultimo, il Platino, è il potere più ambito e forte dell’intero Web, conferendo un vantaggio incontrastabile sia agli Agent che ai Nativi del Web.
 
 # Versione Mazzo 1.0
+Disclaimer doveroso: Il mazzo CMYK5 non finisce qui, sarà sempre in continua espansione con nuove carte, quindi ti consiglio di seguirmi su [Instagram](https://www.instagram.com/samfoll.design?igsh=enB6NHZiMWt1bnl6) per rimanere sempre aggionato o di usare la scheda dedicata [Extra](tags.md) nel sito.
