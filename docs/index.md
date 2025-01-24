@@ -4,11 +4,11 @@
 
 100 Carte Collezionabili divise in 5 Mazzi: Ciano, Magenta, Giallo, Key Color (Nero) e R3M1X.
 
-Il Mazzo CMYK5 è una finestra sul WebVerse, il mondo dove le controparti digitali degli umani vivono e lavorano nel Web. Questi esserini vengono comunemente chiamati "Agent" o "Manager", stando a stretto contatto con noi senza che ci facciano sospettare di nulla. La costruzione del WebVerse si ispira all'iceberg, famosissimo modo per rappresentaro. Ci sono un totale di 3 piani: [Surface Web, Deep Web e Dark Web](Remix/deep.md).
+Il Mazzo CMYK5 è una finestra sul WebVerse, il mondo dove le controparti digitali degli umani vivono e lavorano nel Web. Questi esserini vengono comunemente chiamati "Agent" o "Manager", stando a stretto contatto con noi senza che ci facciano sospettare di nulla. La costruzione del WebVerse si ispira all'iceberg, famosissimo modo per rappresentare l'interezza del Web. Ci sono un totale di 3 piani: [Surface Web, Deep Web e Dark Web](Remix/deep.md).
 
-"CMYK" è l'acronimo che rappresenta i quattro colori primari della sintesi sottrattiva, il modello utilizzato nelle stampanti. Ogni mazzo di carte è associato a un tema e a un colore specifico: il mazzo Ciano include tutte le carte caratterizzate dal predominio del colore ciano, con un design minimalista e tecnologico; il mazzo Magenta, invece, si ispira al mondo della pittura e raccoglie carte prevalentemente magenta, seguendo lo stesso principio. Lo stesso vale per gli altri colori del modello CMYK.
+"CMYK" è l'acronimo che rappresenta i quattro colori primari della sintesi sottrattiva, il modello utilizzato nelle stampanti. Ogni mazzo di carte è associato a un tema e a un colore specifico: il mazzo Ciano include tutte le carte caratterizzate dal predominio del colore ciano, con un design minimalista e tecnologico; il mazzo Magenta, invece, si ispira al mondo della pittura e raccoglie carte prevalentemente magenta, seguendo lo stesso principio. Lo stesso vale per gli altri colori del modello quadricromico.
 
-E il 5° mazzo? Rappresentato dal numero 5 nel nome. questo rappresenta il mazzo R3M1X, dedicato a carte che escono dai confini della sintesi sottrattiva. Qui troviamo elementi particolari come carte metalliche, ultravioletti, infrarossi e altri elementi o materiali insoliti. Più di ogni altro mazzo, il R3M1X racconta la storia che si cela dietro questa collezione, accompagnando ogni carta con una descrizione dettagliata.
+E il 5° mazzo? Rappresentato dal numero 5 nel nome, esso rappresenta il mazzo R3M1X, dedicato a carte che escono dai confini della sintesi sottrattiva. Qui troviamo elementi particolari come carte metalliche, ultravioletti, infrarossi e altri elementi o materiali insoliti. Più di ogni altro mazzo, il R3M1X racconta la storia che si cela dietro questa collezione, accompagnando ogni carta con una descrizione dettagliata.
 
 ## Le classi sociali
 
@@ -47,4 +47,4 @@ Al secondo posto troviamo gli [Strumenti dei Fondatori](Remix/tool.md): Chiavi, 
 Infine, al primo posto della classifica troviamo i [Metalli Nobili](Remix/metal.md), disposti in ordine crescente: Bronzo, Argento, Oro e Platino. Quest’ultimo, il Platino, è il potere più ambito e forte dell’intero Web, conferendo un vantaggio incontrastabile sia agli Agent che ai Nativi del Web.
 
 # Versione Mazzo 1.0
-Disclaimer doveroso: Il mazzo CMYK5 non finisce qui, sarà sempre in continua espansione con nuove carte, quindi ti consiglio di seguirmi su [Instagram](https://www.instagram.com/samfoll.design?igsh=enB6NHZiMWt1bnl6) per rimanere sempre aggionato o di usare la scheda dedicata [Extra](tags.md) nel sito.
+Disclaimer doveroso: Il mazzo CMYK5 non finisce qui, sarà sempre in continua espansione con nuove carte, quindi ti consiglio di seguirmi su [Instagram](https://www.instagram.com/samfoll.design?igsh=enB6NHZiMWt1bnl6) per rimanere sempre aggionato o di usare la scheda dedicata [News](blog/index.md) nel sito.

@@ -10,7 +10,7 @@ percorso immagine
 
 ## Descrizione
 
-PlaceHolder
+Descrizione del Coffee Shop.
 
 ## Colore
 
