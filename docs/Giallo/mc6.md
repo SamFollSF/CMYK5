@@ -1,12 +1,12 @@
 ---
 tags:
-  - TecnoGym
+  - Loco
 
 ...
 
 # MCS6
 
-percorso immagine
+![mc6](../eg/Y/placeholder)
 
 ## Descrizione
 
