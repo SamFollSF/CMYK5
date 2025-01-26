@@ -6,7 +6,7 @@ tags:
 
 # MCS6
 
-![mc6](../eg/Y/placeholder)
+![mc6](../eg/Y/mc6.jpg)
 
 ## Descrizione
 

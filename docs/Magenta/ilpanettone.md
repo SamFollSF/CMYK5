@@ -10,9 +10,9 @@ tags:
 
 ## Descrizione
 
-È l'unico Agent di cui [SamFollSF](../Remix/samfollsf.md) si fida, un leggendario compagno di avventure con cui ha condiviso innumerevoli peripezie. Per mantenersi, si dedica alla caccia di taglie nel [Surface Web](../Remix/deep.md), che siano ricercati ufficialmente dal governo o nemici appartenenti a clan rivali. Come SamFollSF, è ricercato dalle forze dell'ordine, ma a differenza sua, è membro di un clan di sicari, l'HotRide Clan, al quale appartiene anche [Giocosty](../Nero/giocosty.md). Insieme, i due si occupano del trasporto di merci e operativi, sia per missioni aeree che terrestri, anche se la loro attività principale è come detto prima cacciare taglie da soli.
+È l'unico Agent di cui [SamFollSF](../Remix/samfollsf.md) si fida, un leggendario compagno di avventure con cui ha condiviso innumerevoli peripezie. Per mantenersi, si dedica alla caccia di taglie nel [Surface Web](../Remix/deep.md), che siano ricercati ufficialmente dal governo o nemici appartenenti a clan rivali. Come [SamFollSF](../Remix/samfollsf.md), è ricercato dalle forze dell'ordine, ma a differenza sua, è membro di un clan di sicari, l'HotRide Clan, al quale appartiene anche [Giocosty](../Nero/giocosty.md).
 
-Le ore trascorse insieme su PlayStation Network sono incalcolabili, anche se negli ultimi tempi, a causa degli impegni crescenti, il tempo per incontrarsi si è ridotto notevolmente. È curioso notare come SamFollSF abbia un amico così stretto; considerando i dettagli della sua storia, come vedremo più avanti, non è affatto scontato.
+Le ore trascorse insieme su PlayStation Network sono incalcolabili, anche se negli ultimi tempi, a causa degli impegni crescenti, il tempo per incontrarsi si è ridotto notevolmente. È curioso notare come [SamFollSF](../Remix/samfollsf.md) abbia un amico così stretto; considerando i dettagli della sua storia, come vedremo più avanti, non è affatto scontato.
 
 ## Colore
 
