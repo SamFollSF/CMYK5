@@ -1,6 +1,6 @@
 ---
 tags:
-  - Original
+  - B&W
 
 ...
 
@@ -18,6 +18,9 @@ Blu tendente al verde, il Turchese è fresco e vivace, perfetto per la stagione 
 
 ## Curiosità
 
-- aaa
+- È completamente al di fuori di quello che [Angy](../Giallo/angy.md) fa nei palazzi della Web Intelligence, trova il tutto estremamente nioso.
+- Uno dei suoi orecchini è un occhio greco.
+- Il suo codino è un timone, riferimento sia al fatto che sà nuotare sià al Fidget Spinner reale del 2017.
+- KK è l'Agent di Francesca Amirata.
 
 # Versione Mazzo 1.0

@@ -20,7 +20,7 @@ Nel 1884 il Blu Elettrico viene coniato per descrivere la sfumatura caratteristi
 
 - Anche quando è in servizio, 1udovìt è un grandissimo PlayBoy, rizzer per eccellenza. Non a caso nella sua carta ha la posa del mewing.
 - Sul suo avanbraccio sinistro è presente un tatoo della data di nascita di Ludovico, il motivo per il quale ho deciso di implementare questo dettaglio possiamo capirlo solo io e lui.
-- Parla perfettamente Slovacco e mastica un po' di Ceco. Mnetre per esigenze lavorative è costretto ad avere delle basi di Russo.
+- Parla perfettamente Slovacco e mastica un po' di Ceco. Mentre per esigenze lavorative è costretto ad avere delle basi di Russo.
 - 1udovìt è l'Agent di Ludovico Gigliano
 
 # Versione Mazzo 1.0

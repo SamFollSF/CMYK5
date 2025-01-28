@@ -1,6 +1,6 @@
 ---
 tags:
-  - Original
+  - B&W
 
 ...
 
@@ -20,7 +20,7 @@ Come dimenticare "Colazione da Tiffany" e quel colore che Charles Lewis Tiffany 
 
 - Fa parte, come [Its Martin](../Giallo/martin.md) della It's Web Company, una comunità di alleanza segreta fra gli Agent che utilizzano varchi clandestini per il [Deep Web](../Remix/deep.md).
 - Nella sua carta è possibile vedere una boccietta di profumo che porta sempre con sè.
-- È admin di un blog di pettegolezzi, non a caso [SamFollSF](../Remix/samfollsf.md) l'ha salvata fra i suoi contatti come "Teresa degli Inciuci" (Cosa realmente accaduta)
+- È admin di un blog di pettegolezzi, non a caso [SamFollSF](../Remix/samfollsf.md) l'ha salvata fra i suoi contatti come "Terry degli Inciuci" (Cosa realmente accaduta).
 - It's Terry è l'Agent di Teresa De Angelis.
 
 # Versione Mazzo 1.0

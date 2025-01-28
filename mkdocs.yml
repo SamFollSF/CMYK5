@@ -51,6 +51,7 @@ nav:
  - Home: index.md
  - CYAN: 
     - Ciano/carteciano.md
+    - Ciano/mimmo.md
     - Ciano/dada.md
     - Ciano/iuffredo.md
     - Ciano/itsterry.md
@@ -63,7 +64,6 @@ nav:
     - Ciano/pistilli.md
     - Ciano/thedea.md
     - Ciano/senatore.md
-    - Ciano/mimmo.md
  - MAGENTA: 
     - cartemag.md
     - Magenta/alesdreams.md

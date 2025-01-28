@@ -10,11 +10,11 @@ tags:
 
 ## Descrizione
 
-Non c'è confronto che possa reggere, nemmeno esseri potentissimi come [Sa742sa](../Remix/sa742sa.md) o [Kyle](../Remix/metal.md). Wooby, nella storia delle Carte CMYK5, è il personaggio più potente di tutti, con una presenza del 68% di [Platino](../Remix/metal.md) per massa corporea. Per avere un metro di paragone, per il Governo del Web, essere in possesso del 20% di Platino nel corpo non solo è illegale e punito con la pena di morte, ma supera anche gli standard di sicurezza per la salute dell'Agent.
+Non c'è confronto che possa reggere, nemmeno esseri potentissimi come [Sa742sa](../Remix/sa742sa.md) o [Kyle](../Remix/metal.md). Wooby, nel mazzo CMYK5 aggiornato alla versione 1.0, è il personaggio più potente di tutti, con una presenza del 68% di [Platino](../Remix/metal.md) per massa corporea. Per avere un metro di paragone, per il Governo del Web, essere in possesso del 20% di Platino nel corpo non solo è illegale e punito con la pena di morte, ma supera anche gli standard di sicurezza per la salute degli Agent.
 
-Le grandi dosi di Platino possono compromettere seriamente il funzionamento dell'Agent, come se fossero radiazioni per il corpo umano. Tuttavia, test non ufficiali indicano che i veri effetti catastrofici si manifestano quando il livello supera il 70%, e che quelli più lievi bisogna superare il 40%.
+Le grandi dosi di Platino possono compromettere seriamente il funzionamento del corpo degli Agent, come se fossero radiazioni per il corpo umano. Tuttavia, test non ufficiali indicano che i veri effetti catastrofici si manifestano quando il livello supera il 70%, e che quelli più lievi bisogna superare il 40%.
 
-Ovviamente Wooby non è l’essere più potente del Web, ma è sul filo del rasoio; la sua vita è in serio pericolo a causa della quantità spropositata di Platino che porta con sé, ma è un rischio calcolato. Wooby vuole essere temuto da tutti, e per questo è disposto a tutto.
+Ovviamente Wooby non è l’essere più potente del Web, ma è sul filo del rasoio; la sua vita è in serio pericolo a causa della quantità spropositata di Platino che porta con sé, ma è un rischio calcolato. Wooby vuole essere temuta da tutti, e per questo è disposto a tutto.
 
 E non mi sbilancio nemmeno a citare [SamFollSF](../Remix/samfollsf.md): davvero, non c'è storia. Nemmeno diecimila Sam potrebbero fermarla.
 

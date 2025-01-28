@@ -1,16 +1,16 @@
 ---
 tags:
-  - Frutiger Age
+  - The Other Side
 
 ...
 
-# Mimmo Racca
+# Assasseeeeno
 
 Percorso immagine
 
 ## Descrizione
 
-Nel [Deep Web Esposto](../Remix/deep.md), i supervisori non sono solo i [Bruti Dorati](../Remix/metal.md), ma includono anche Agent incaricati di monitorare i movimenti di altri Agent e Manager che accedono a questa regione del Web. Questi supervisori forniscono indicazioni e comunicazioni a chi transita in questa zona. Tra loro c'è Mimmo, che segretamente collabora con [Brioche33](../Magenta/santin.md) e [PickMeGiuls](../Ciano/pistilli.md), fornendo loro informazioni sui cambiamenti interni alla sicurezza.
+Nel [Deep Web Esposto](../Remix/deep.md), i supervisori non sono solo i [Bruti Dorati](../Remix/metal.md), ma includono anche Agent incaricati di monitorare i movimenti di altri Agent e Manager che accedono a questa regione del Web. Questi supervisori forniscono indicazioni e comunicazioni a chi transita in questa zona. Tra loro c'è Assasseeeeno, che segretamente collabora con [Brioche33](../Magenta/santin.md) e [PickMeGiuls](../Ciano/pistilli.md), fornendo loro informazioni sui cambiamenti interni alla sicurezza.
 
 ## Colore
 
@@ -18,6 +18,10 @@ Insieme al tricolore è sicuramente il simbolo dell'Italia, ma perché? Tutto pa
 
 ## Curiosità
 
-- PlaceHolder è l'Agent di Domenico Racca.
+- Come [Tulipana](../Giallo/del.md) anche lui utilizza più nomi diversi nel Web
+- PLACE HOLDER
+- Lo stile della carta segue l'old cartoon vintage di [OpsGiuly](../Nero/opsg.md) e [Suunnrise](../Nero/giada.md).
+- PLACE HOLDER
+- Assasseeeeno è l'Agent di Domenico Racca.
 
 # Versione Mazzo 1.0

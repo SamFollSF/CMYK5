@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Anche se si sta parlando di un mondo digitale le 4 ruote non possono mancare. Esse vengono usate per spostamenti lunghi nella megatropoli del [Surface Web](../Remix/deep.md). PakoLapp lavora come dipendente in un concessionario di auto di lusso di grande prestigio, L'Imperium Space. tuttavia, nel tempo libero non si fa scappare la possibilità di partecipare a gare clandestine con i suoi amici.
+Anche se si sta parlando di un mondo digitale le 4 ruote non possono mancare. Esse vengono usate per spostamenti lunghi nella megatropoli del [Surface Web](../Remix/deep.md). PakoLapp lavora come dipendente in un concessionario di auto di lusso di grande prestigio, L'Imperium Space. Tuttavia, nel tempo libero non si fa scappare la possibilità di partecipare a gare clandestine con i suoi amici.
 
 ## Colore
 
@@ -19,7 +19,7 @@ Celeste è il mantello della Vergine nei dipinti di arte sacra del Rinascimento;
 ## Curiosità
 
 - Pako è amante della fotografia, che a differenza del nostro mondo lì è un settore ancora in grande voga. Oltre a fotografare auto per lavoro, i soggetti delle sue foto sono anche vicoli malridotti della metropoli.
-- Su i suoi occhiali è presente il nome PA - KO.
+- Sui suoi occhiali è presente il nome PA - KO.
 - Gli sponsor che ha sulla sua tuta sono: Chevrolet (Spark), It's WCO ed E-cola.
 - Ha un numero spropositato di ore su Grand Theft Auto V, perché sì anche gli Agent giocano ai videogiochi.
 - Sà parlare perfettamente lo Spagnolo.

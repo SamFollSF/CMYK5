@@ -19,9 +19,9 @@ Particolarmente brillante, è il colore della pietra tanto amata da dive e regin
 ## Curiosità
 
 - Selezione: Il pulsante "ctrl" permette agli Agent e Manager di interagire con le UI in modo immersivo. Basta premere il pulsante e dire a voce la combo di tasti, come "C" o "V".
-- Ha scoperto l'operazione ed è riuscito a entrarci grazie a [Chitty](../Magenta/chitty.md), una amica di lunga data. Inoltre possiede la sua stessa Katana solo che è di colore diverso.
+- Ha scoperto delll'Operazione [Red Winter](../Magenta/alesdreams.md) ed è riuscito ad entrarci grazie a [Chitty](../Magenta/chitty.md), una amica di lunga data. Inoltre possiede la sua stessa Katana solo che è di colore diverso.
 - Indossa un orecchino a forma di Stella.
-- La sua maglietta ha sopra un'illustrazione dell'Operazione [Red Winter](../Magenta/alesdreams.md)
+- La sua maglietta ha sopra un'illustrazione dell'Operazione [Red Winter](../Magenta/alesdreams.md).
 - Notfleex è l'Agent di Krystian Boguscz.
 
 # Versione Mazzo 1.0

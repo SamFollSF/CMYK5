@@ -10,7 +10,14 @@ tags:
 
 ## Descrizione
 
-Il lavoro di Shadow Èlite consiste nell'estrarre dalle miniere i metalli che compongono le banconote e le monete del Web: Ferro, Alluminio, Mercurio e Titanio. Il valore della moneta aumenta progressivamente dal Ferro al Titanio, ma, a differenza dei metalli nobili, questi non conferiscono poteri particolari; sono semplicemente oggetti di valore economico. Le monete, in particolare, possono essere di vario tipo: nel Web non esiste una valuta unica, e gli Agent e i Manager possono utilizzare le crypto che ritengono più convenienti.
+Il lavoro di Shadow Èlite consiste nell'estrarre dalle miniere i metalli che compongono le banconote e le monete del Web: Ferro, Alluminio, Mercurio e Titanio. Il valore della moneta aumenta progressivamente dal Ferro al Titanio, ma, a differenza dei metalli nobili, questi non conferiscono poteri particolari; sono semplicemente oggetti di valore economico. Per fare un metro di paragone potremmo dire che:
+
+- Una moneta di Ferro: 5$
+- Una moneta di Alluminio: 15$
+- Una banconota di Mercurio: 50$
+- Una banconota di Titanio: 150$
+
+In futuro questi metalli avranno le loro carte dedicate, magari nella versione del mazzo 1.1.
 
 ## Colore
 
@@ -21,6 +28,7 @@ Rosa vivace con una punta di rosso leggermente aranciato, il Geranio è un color
 - Per l'estrazione mineraria utilizza un piccone lavorato in [Diamante](../Remix/crystal.md), un cristallo molto robusto adatto a lavori così usuranti. (Carta Diamante in arrivo con il Mazzo 1.1)
 - Indossa una spilla con le iniziali "RH" (Rocco Hunt, anche io stesso mi ero dimenticato per cosa stavano queste 2 lettere)
 - Sulle bretelle appare la scritta "500"
+- In passato ha lavorato in un centro scommesse frequentato solitamente da [SamFollSF](../Remix/samfollsf.md)
 - Shadow Èlite è l'Agent di Cristian Di Fraia.
 
 # Versione Mazzo 1.0
