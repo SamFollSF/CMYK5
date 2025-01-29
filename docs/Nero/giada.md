@@ -18,7 +18,8 @@ Il nome non gli rende giustizia: è in realtà raffinato e versatile, perfetto p
 
 ## Curiosità
 
-- La sua amicizia con [OpsGiuly](../Nero/opsg.md) ha fatto crescere la lista nera di [SamFollSF](../Remix/samfollsf.md) di un nome. Una curiosità interessante è che condivide lo stesso stile grafico di [OpsGiuly](../Nero/opsg.md), e questa unione nasconde un easter egg: i colori rosso e verde richiamano il famoso duo Mario e Luigi di Nintendo. Tuttavia, la citazione più evidente resta quella a Walt Disney.
+- La sua amicizia con [OpsGiuly](../Nero/opsg.md) ha fatto crescere la lista nera di [SamFollSF](../Remix/samfollsf.md) di un nome.
+- Una curiosità interessante è che condivide lo stesso stile grafico di [OpsGiuly](../Nero/opsg.md), e questa unione nasconde un easter egg: i colori rosso e verde richiamano il famoso duo Mario e Luigi di Nintendo. Tuttavia, la citazione più evidente resta quella a Walt Disney.
 - Il suo ombrello ha un manico a forma di Pennello e la punta a forma di Matita: fa parte del merch ufficiale di [Geadamn](../Giallo/geadamn.md).
 - Il colore "Mud" è l'unico che si distacca dalla scala di grigio, risultando essere più un beige.
 - Suunnrise è l'Agent di Giada D'Ambrosio.

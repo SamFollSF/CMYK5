@@ -22,10 +22,10 @@ Il Lime è un colore a metà fra il giallo e il chartreuse, chiamato così propr
 
 ## Curiosità
 
-- Le palestre sono le stesse del mondo reale, quindi sì la Loca Gym esiste anche nel [Surface Web](../Remix/deep.md) e MC6 la frequenta tre volte a settimana.
-- Insieme a [SamFollSF](../Remix/samfollsf.md) detiene una lega di Fantacalcio, anche in questo caso le stesse squadre del mondo reale.
-- Ha una medaglia sul petto dorata con il simbolo di un pallone da Calcio.
-- La sua squadra del cuore è sempre di Milano ma non è rossonera, mi dispiaca Michele.
-- MC6 è l'Agent di Michle ???.
+- Le palestre hanno sede nelle stesse del mondo reale, quindi sì la Loca Gym esiste anche nel [Surface Web](../Remix/deep.md) e MC6 la frequenta tre volte a settimana.
+- Insieme a [SamFollSF](../Remix/samfollsf.md) detiene una lega di Fantacalcio, anche in questo caso le stesse squadre del mondo reale (Citazioni doverose: Corto Musah, Pacchi FC e Scarsenal).
+- Ha una medaglia sul petto dorata con il simbolo di un pallone da Calcio. (Ti devo gufare)
+- La sua squadra del cuore è sempre di Milano ma non è rossonera, mi dispiaca Michele ma sto giro ti è andata male.
+- MC6 è l'Agent di Michle Conte.
 
 # Versione Mazzo 1.0

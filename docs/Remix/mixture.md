@@ -10,7 +10,7 @@ Rosso, Verde e Blu sono i colori che si ottengono dall'unione di due colori prim
 
 La miscela Blu si ottiene unendo il 100% di Ciano con il 100% di Magenta.
 
-Descrizione Colore: Con molta probabilitàa i primi a distinguerlo furono gli egiziani, e da quel momento la storia del blu ha conosciuto toni e sfumature, nobiltà e status, pace e guerra, mistica compresa. Oggi è il colore preferito di metà della popolazione mondiale.
+Descrizione Colore: Con molta probabilità i primi a distinguerlo furono gli egiziani, e da quel momento la storia del blu ha conosciuto toni e sfumature, nobiltà e status, pace e guerra, mistica compresa. Oggi è il colore preferito di metà della popolazione mondiale.
 
 ## Rosso
 
@@ -26,6 +26,6 @@ Descrizione Colore: Rosso parla di antiche divinità e creature mitologiche, di 
 
 la miscela Verde si ottiene unendo il 100% di Giallo con il 100% di Ciano.
 
-
+Il verde ha un significato simbolico stratificato e contraddittorio. Era considerato il colore della sorte, volubile. Ecco perché lo ritroviamo sui tavoli da gioco, ma anche nelle banconote. Tanti lo amano, ma pochi lo indossano: forse c'è qualcosa di vero nel detto "Chi di verde veste, troppo di beltà sua si fida"?
 
 # Versione Mazzo 1.0

@@ -6,7 +6,7 @@ tags:
 
 # Assasseeeeno
 
-Percorso immagine
+![assasseeeeno](../eg/C/assasseeeeno.jpg)
 
 ## Descrizione
 
